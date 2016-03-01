@@ -1,4 +1,4 @@
-# pencilbox
+# pencilbox - Work In Progress
 Simple 2 states grid
 
 Place the `pb` class in a container elment like
